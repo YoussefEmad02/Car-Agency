@@ -38,7 +38,7 @@ The entity creation process and the data type of their data is shown in the tabl
 *To be included: ER diagram image.*
 
 ## Relational Mapping
-![ER Diagram](RELATIONAL MAPPING.png)
+![RELATIONAL MAPPING](RELATIONAL MAPPING.png)
 
 ## SQL
 ### Service Table:
