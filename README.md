@@ -35,7 +35,8 @@ The entity creation process and the data type of their data is shown in the tabl
 | Contract | - Contract_Number<br>- Vehicle_ID<br>- Date<br>- Client_ID<br>- Deposit<br>- Payment_Method                           |                                                              |
 
 ## ER Diagram
-*To be included: ER diagram image.*
+![ER Diagram](ER_Diagram1.jpg)
+![ER Diagram](ER_Diagram2.jpg)
 
 ## Relational Mapping
 ![RELATIONAL MAPPING](RELATIONAL_MAPPING.png)
